@@ -22,7 +22,7 @@ Ce projet est un portfolio personnel moderne, développé en HTML et CSS, permet
 - [Font Awesome](https://fontawesome.com/) pour les icônes
 
 ## Auteur
-Dev Junior
+Mamane Abdou Mika-illou
 
 ## Licence
 Ce projet est libre d’utilisation pour un usage personnel.
