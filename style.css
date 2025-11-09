@@ -32,7 +32,7 @@ html{
     color: white;  
     font-size: 26px;  
     padding-left: 780px;
-    padding-right: 900px;
+    padding-right: 00px;
     z-index: 100;
 }
 
@@ -443,7 +443,7 @@ iframe{
     width: 100%;
     padding: 12px;
     border: 1px solid #ddd;
-    border-radius: 5px;
+    border-radius: 10px;
     font-size: 1rem;
 }
 
@@ -730,6 +730,30 @@ footer{
            width: 320px;
            height: 250px;
     }
+     .copyright p {
+            font-size: 0.7rem;  
+        }
+    }
+     @media (max-width: 375px) {
+        .copyright p {
+            font-size: 0.6rem;  
+        }
+        .form-row{
+            flex-direction: column;
+        }
+         .profile-image img{
+            width: 300px;
+            height: 280px;
+        }
+        .navbar{
+            padding: 0;
+            padding-left: 20px;
+            padding-right: 20px
+        }
+        .intro-text p{
+            width: 100%;
+        }
+        
     }
      @media (max-width: 320px) {
         .div_1{
